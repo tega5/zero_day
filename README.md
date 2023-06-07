@@ -4,11 +4,17 @@
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google.
 
-* What is ubuntu
+* What is a Virtual Machine
 
-* What is a virtual machine
+* What is a Vagrant
 
-* What is a vagrant
+* Who wrote Vagrant
 
-* Who wrote vagrant
+* What is Ubuntu
+
+* What does "Ubuntu" mean
+
+* How to use VMs with Vagrant
+
+* What does the command uname do
 
